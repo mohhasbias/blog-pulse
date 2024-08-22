@@ -20,6 +20,8 @@ sites:
   #   ipv6: true
   - name: Lecturer Page
     url: https://hasbi.lecturer.pens.ac.id
+  - name: Siniar PENS
+    url: https://siniar.pens.ac.id
 
 status-website:
   baseUrl: /blog-pulse # where "repo" is your repository name
