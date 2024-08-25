@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5634,
-    "timeDay": 7169,
-    "timeWeek": 5634,
-    "timeMonth": 5634,
-    "timeYear": 5634,
+    "time": 5415,
+    "timeDay": 4543,
+    "timeWeek": 5415,
+    "timeMonth": 5415,
+    "timeYear": 5415,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/siniar.pens.ac.id.ico",
     "slug": "siniar-pens",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 11968,
-    "timeDay": 9801,
-    "timeWeek": 11968,
-    "timeMonth": 11968,
-    "timeYear": 11968,
-    "dailyMinutesDown": {
-      "2024-08-24": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 11648,
+    "timeDay": 9765,
+    "timeWeek": 11648,
+    "timeMonth": 11648,
+    "timeYear": 11648,
+    "dailyMinutesDown": {}
   }
 ]
