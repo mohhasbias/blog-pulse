@@ -22,19 +22,19 @@
     "url": "https://siniar.pens.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/siniar.pens.ac.id.ico",
     "slug": "siniar-pens",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 11174,
-    "timeDay": 8803,
-    "timeWeek": 11174,
-    "timeMonth": 11174,
-    "timeYear": 11174,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 11040,
+    "timeDay": 9520,
+    "timeWeek": 11040,
+    "timeMonth": 11040,
+    "timeYear": 11040,
     "dailyMinutesDown": {
-      "2024-08-26": 0
+      "2024-08-26": 17
     }
   }
 ]
