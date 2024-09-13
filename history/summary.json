@@ -4,19 +4,19 @@
     "url": "https://hasbi.lecturer.pens.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/hasbi.lecturer.pens.ac.id.ico",
     "slug": "lecturer-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2868,
-    "timeDay": 1516,
-    "timeWeek": 1630,
-    "timeMonth": 2868,
-    "timeYear": 2868,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2818,
+    "timeDay": 1567,
+    "timeWeek": 1628,
+    "timeMonth": 2818,
+    "timeYear": 2818,
     "dailyMinutesDown": {
-      "2024-09-13": 1
+      "2024-09-13": 20
     }
   },
   {
