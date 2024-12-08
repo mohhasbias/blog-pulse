@@ -1,7 +1,7 @@
 url: https://hasbi.lecturer.pens.ac.id
-status: up
-code: 200
-responseTime: 1514
-lastUpdated: 2024-12-07T23:09:07.597Z
+status: down
+code: 500
+responseTime: 1095
+lastUpdated: 2024-12-08T09:55:37.056Z
 startTime: 2024-08-22T06:34:42.928Z
 generator: Upptime <https://github.com/upptime/upptime>
