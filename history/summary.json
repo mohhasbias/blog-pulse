@@ -63,7 +63,7 @@
     "url": "https://siniar.pens.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/siniar.pens.ac.id.ico",
     "slug": "siniar-pens",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.81%",
@@ -75,6 +75,7 @@
     "timeMonth": 2344,
     "timeYear": 4165,
     "dailyMinutesDown": {
+      "2024-12-24": 0,
       "2024-12-22": 318,
       "2024-12-21": 608,
       "2024-12-15": 31,
